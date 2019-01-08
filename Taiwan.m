@@ -5,9 +5,9 @@ addpath(phToolsPath)
 
 %% Define job parameters, include Region, supercatchment
 
-groupArea = 'Taiwan';
-supercatchmentNum = [1:35];
+groupArea = 'SantaMarta';
+supercatchmentNum = [1:50];
 outputFigType = 'png';
-peakElevationForOutputFig = 4000;
+peakElevationForOutputFig = 6000;
 %%
 RunPH
