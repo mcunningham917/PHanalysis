@@ -7,3 +7,6 @@ phToolsPath         = fullfile(phRootFilePath, 'PHtools', 'Core')
 
 topoToolboxFilePath = fullfile('~','Science','topotoolbox');
 
+addpath(topoToolboxFilePath);
+addpath(phToolsPath);
+
