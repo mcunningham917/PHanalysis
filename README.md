@@ -20,4 +20,6 @@ Includes a .txt for each PHB recorded along each PH chain
 
 ### 3: PHB plots
 
+Contains the plot used in Fig. 8a/b in Cunningham et al. (2019) and the PHB plot for each individual supercatchment.
+
 
