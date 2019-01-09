@@ -1,6 +1,6 @@
 # PHanalysis
 
-This repository contains the output and figures used in Cunningham et al. (2019). For ten [ROIs](https://mcunningham917.github.io/PHdoc/Data/) we performed the [PH algorithm] (https://mcunningham917.github.io/PHdoc/Method/). This repository has two basic components:
+This repository contains the output and figures used in Cunningham et al. (2019). For ten [ROIs](https://mcunningham917.github.io/PHdoc/Data/) we performed the [PH](https://mcunningham917.github.io/PHdoc/Method/). This repository has two basic components:
 
 ## 1 Scripts to generate output for each ROI
 
