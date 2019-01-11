@@ -1,0 +1,4 @@
+Outlets	Modes	Supercatchment	StreamID
+377	2163	28	1
+2266	2411	28	1
+2373	2511	28	1
