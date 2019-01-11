@@ -1,0 +1,7 @@
+Outlets	Modes	Supercatchment	StreamID
+293	418	45	3
+397	700	45	3
+658	1040	45	3
+1101	1632	45	3
+1429	1734	45	3
+431	507	45	4
