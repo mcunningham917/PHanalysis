@@ -4,7 +4,7 @@ This repository contains the output and figures used in Cunningham et al. (2019)
 
 ## 1 Scripts to generate output for each ROI
 
-Each script points the PH routine to the proper input, in [PHdata](https://github.com/mcunningham917/PHdata) and writes output to [PHanalysis](https://github.com/mcunningham917/PHanalysis). It also sets the axes limits for output figures. 
+Each script points the PH routine to the proper input, in [PHdata](https://github.com/mcunningham917/PHdata), and writes output to [PHanalysis](https://github.com/mcunningham917/PHanalysis). It also sets the axes limits for output figures. 
 
 ## 2 Output 
 
@@ -15,10 +15,11 @@ Each ROI folder has three components
 Includes a .txt file of each PH chain analyzed for each Supercatchment in each ROI.
 
 ### 2: PHBs
+This folder contains two subfolders:
 
-One (AllSupercatchmentTxt) includes a .txt for each PHB recorded along each PH chain for each supercatchment in the analysis. This folder also includes a .txt that records each PHB for the entire ROI.
+`AllSupercatchmentTxt` includes a .txt for each PHB recorded along each PH chain for each supercatchment in the analysis. This folder also includes a .txt that records each PHB for the entire ROI.
 
-PHtools also has the capability to write geotiffs of each PHB labeled in their respective supercatchment. An example of this kind ofmoutput is available for [Costa Rica](https://github.com/mcunningham917/PHanalysis/tree/master/CostaRica/PHBs/Cusum02_BenchLength3Steps/AllSupercatchmentsTiffs). 
+PHtools also has the capability to write geotiffs of each PHB labeled in their respective supercatchment. These are written to `AllSupercatchmentTiffs`. An example of this kind ofmoutput is available for [Costa Rica](https://github.com/mcunningham917/PHanalysis/tree/master/CostaRica/PHBs/Cusum02_BenchLength3Steps/AllSupercatchmentsTiffs). 
 
 ### 3: PHB plots
 
