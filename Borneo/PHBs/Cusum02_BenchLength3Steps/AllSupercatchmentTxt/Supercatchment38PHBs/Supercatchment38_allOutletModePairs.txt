@@ -1,0 +1,6 @@
+Outlets	Modes	Supercatchment	StreamID
+235	405	38	2
+422	842	38	2
+719	883	38	2
+311	625	38	3
+758	816	38	3

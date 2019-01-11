@@ -1,0 +1,4 @@
+Outlets	Modes	Supercatchment	StreamID
+544	772	40	4
+302	737	40	5
+506	935	40	5
