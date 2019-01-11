@@ -1,13 +1,13 @@
 %% Define root paths
 
-Defaults
-addpath(phToolsPath)
-
+Defaults;
+addpath(phToolsPath);
+addpath(topoToolboxFilePath);
 %% Define job parameters, include Region, supercatchment
 
-groupArea = 'SantaMarta';
-supercatchmentNum = [1:50];
+groupArea = 'Taiwan';
+supercatchmentNum = [1:36];
 outputFigType = 'png';
-peakElevationForOutputFig = 6000;
+peakElevationForOutputFig = 4000;
 %%
 RunPH
