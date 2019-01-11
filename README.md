@@ -4,7 +4,7 @@ This repository contains the output and figures used in Cunningham et al. (2019)
 
 ## 1 Scripts to generate output for each ROI
 
-Each script points the PH routine to the proper input (PHdata) and output (PHanalysis) path and sets the axes limits for output figure. 
+Each script points the PH routine to the proper input, in [PHdata](https://github.com/mcunningham917/PHdata) and writes output to [PHanalysis](https://github.com/mcunningham917/PHanalysis). It also sets the axes limits for output figures. 
 
 ## 2 Output 
 
