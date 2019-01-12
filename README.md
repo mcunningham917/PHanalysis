@@ -29,12 +29,14 @@ PHB for the entire ROI.
 
 PHtools also has the capability to write geotiffs of each PHB labeled in their respective 
 supercatchment. These are written to `AllSupercatchmentTiffs`. An example of this 
-kind ofmoutput is available for 
+kind of output is available for 
 [Costa Rica](https://github.com/mcunningham917/PHanalysis/tree/master/CostaRica/PHBs/Cusum02_BenchLength3Steps/AllSupercatchmentsTiffs). 
 
 ### 3: PHB plots
 
-Contains the plot used in Fig. 8a/b in Cunningham et al. (2019) and the PHB plot 
+Contains the plot used in Fig. 8a/b in 
+[Cunningham et al. (2019)](https://mcunningham917.github.io/PHdoc/Publications) 
+and the PHB plot 
 for each individual supercatchment.
 
 
