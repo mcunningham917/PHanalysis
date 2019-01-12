@@ -8,8 +8,8 @@ This repository has two basic components:
 
 ## 1) Scripts to generate output for each ROI
 
-Each script points the [PH](https://github.com/mcunningham917/PHtools) 
-routine to the proper input, in 
+Each script points the progressive hypsometry 
+routine (see [PHtools](https://github.com/mcunningham917/PHtools)) to the proper input, in 
 [PHdata](https://github.com/mcunningham917/PHdata), and writes output to 
 [PHanalysis](https://github.com/mcunningham917/PHanalysis). 
 It also customizes the axes limits for each output figure. 
